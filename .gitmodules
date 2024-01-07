@@ -1,0 +1,3 @@
+[submodule "tron-phpx"]
+	path = tron-phpx
+	url = https://github.com/Fenguoz/tron-php.git
